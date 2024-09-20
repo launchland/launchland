@@ -1,8 +1,9 @@
 ## Hello, I'm launchland
 
-- 🌱 I’m currently learning Python, HTML, and Lua
-- ⚡ Fun fact: I enjoy making music and Roblox projects
-- Discord: launchland
+- 💻 Knowledge in Lua
+- 🌱 I am currently learning Python, HTML
+- ⚡ fun fact: I enjoy making music and Roblox projects
+- 🤖 discord: launchland
 
 <!--
 **launchland/launchland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
