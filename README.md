@@ -1,5 +1,7 @@
 ## Hello, I'm launchland
 
+- 🌱 I’m currently learning Python and HTML
+- Discord: launchland
 
 <!--
 **launchland/launchland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
