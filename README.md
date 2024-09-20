@@ -1,6 +1,7 @@
 ## Hello, I'm launchland
 
-- 🌱 I’m currently learning Python and HTML
+- 🌱 I’m currently learning Python, HTML, and Lua
+- ⚡ Fun fact: I enjoy making music and Roblox projects
 - Discord: launchland
 
 <!--
