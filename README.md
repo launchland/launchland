@@ -1,7 +1,7 @@
 ## Hello, I'm launchland!
 
 - 🌱 I am currently learning C#, PHP, Javascript
-- 🧠 I have knowledge in Python, HTML, CSS
+- 🧠 I have knowledge in Python, HTML, CSS, Lua
 - ⚡ fun fact: I enjoy making music and Roblox projects
 - 🤖 discord: launchland
 
