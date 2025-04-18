@@ -1,6 +1,6 @@
 ## Hello, I'm launchland!
 
-- 🌱 I am currently learning C#, PHP, Javascript
+- 🌱 I am currently learning C#, PHP, Javascript, PostgreSQL
 - 🧠 I have knowledge in Python, HTML, CSS, Lua
 - ⚡ fun fact: I enjoy making music and Roblox projects
 - 🤖 discord: launchland
