@@ -1,7 +1,7 @@
 ## Hello, I'm launchland!
 
-- 🌱 I am currently learning C#, PHP, Javascript, PostgreSQL
-- 🧠 I have knowledge in Python, HTML, CSS, Lua
+- 🌱 I am currently learning Javascript, React, Java, Oracle APEX
+- 🧠 I have knowledge in Python, PostgreSQL, HTML, CSS, Lua
 - ⚡ fun fact: I enjoy making music and Roblox projects
 - 🤖 discord: launchland
 
