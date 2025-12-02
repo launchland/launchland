@@ -2,7 +2,7 @@
 
 - 🌱 I am currently learning Javascript, React, Java, Oracle APEX
 - 🧠 I have knowledge in Python, PostgreSQL, HTML, CSS, Lua
-- ⚡ fun fact: I enjoy making music and Roblox projects
+- ⚡ fun fact: I love anything related to music!
 - 🤖 discord: launchland
 
 <!--
