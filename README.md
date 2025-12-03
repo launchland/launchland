@@ -1,4 +1,4 @@
-## Hello, I'm launchland!
+## Hello!
 
 - 🌱 I am currently learning Javascript, React, Java, Oracle APEX
 - 🧠 I have knowledge in Python, PostgreSQL, HTML, CSS, Lua
