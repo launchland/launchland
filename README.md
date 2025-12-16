@@ -1,9 +1,9 @@
-## Hello!
-
+## Hello there!
+- 👋 My name is Benjamin Noel.
 - 🌱 I am currently learning Javascript, React, Java, Oracle APEX
 - 🧠 I have knowledge in Python, PostgreSQL, HTML, CSS, Lua
-- ⚡ fun fact: I love anything related to music!
-- 🤖 discord: launchland
+- 👀 I am interested in full-stack, graphic design, and music
+- 📫 discord: 8ukopandan, email: benjulian.noel@gmail.com
 
 <!--
 **launchland/launchland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
