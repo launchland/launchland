@@ -3,7 +3,8 @@
 - 🌱 I am currently learning Javascript, React, Java, Oracle APEX
 - 🧠 I have knowledge in Python, PostgreSQL, HTML, CSS, Lua
 - 👀 I am interested in full-stack, graphic design, and music
-- 📫 discord: 8ukopandan, email: benjulian.noel@gmail.com
+- 📫 email: benjulian.noel@gmail.com
+- 🤖 discord: 8ukopandan 
 
 <!--
 **launchland/launchland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
