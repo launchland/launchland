@@ -1,7 +1,7 @@
 ## Hello there!
 - 👋 My name is Benjamin Noel.
-- 🌱 I am currently learning Javascript, React, Java, Oracle APEX
-- 🧠 I have knowledge in Python, PostgreSQL, HTML, CSS, Lua
+- 🌱 I am currently learning more about full-stack
+- 🧠 I have knowledge in Python, PostgreSQL, React.js, Java, and Lua
 - 👀 I am interested in full-stack, graphic design, and music
 - 📫 email: benjulian.noel@gmail.com
 - 🤖 discord: 8ukopandan 
